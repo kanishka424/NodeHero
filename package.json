@@ -1,0 +1,19 @@
+{
+  "name": "nodehero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "your-custom-script": "echo npm"
+  },
+  "author": "Kanishka Malpana",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
